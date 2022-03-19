@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chazmasterflash
-- 👀 I’m interested in programming, drums, cooking adn bonsai.
+- 👀 I’m interested in programming, drums, cooking and bonsai.
 - 🌱 I’m currently learning C#, Pyhton and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
